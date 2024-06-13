@@ -1,0 +1,17 @@
+import = [
+"~/.config/alacritty/themes/themes/snazzy.toml"
+]
+[window]
+padding.x= 10
+padding.y = 10
+
+decorations = "Buttonless"
+
+opacity = 0.6
+blur = false
+
+option_as_alt = "Both"
+
+[font]
+normal.family = "FiraMono Nerd Font"
+size = 24
